@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    background-image: url(../imgs/banner.png);
+}
+
+.img-weather{
+    width: 80px;
+    height: 50px;
+}
+.bg-main-color{
+    background-color: rgba(30, 32, 43, 0.905);
+
+}
+
+.img-1{
+    background-color: rgba(102, 95, 95, 0.699);
+}
+.item-footer{
+   width: 20px;
+   height: 20px;
+  
+}
